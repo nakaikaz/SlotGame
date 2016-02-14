@@ -1,0 +1,89 @@
+﻿  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  6 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+libchipmunk.lib(chipmunk.obj) : warning LNK4075: /EDITANDCONTINUE は /OPT:LBR の指定によって無視されます。
+     ライブラリ D:\cocos2dx\SlotGame\proj.win32\Debug.win32\libcocos2d.lib とオブジェクト D:\cocos2dx\SlotGame\proj.win32\Debug.win32\libcocos2d.exp を作成中
+libjpeg.lib(jcapimin.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcapimin.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcapistd.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcapistd.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcarith.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcarith.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcparam.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcparam.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdatadst.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdatadst.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcinit.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcinit.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcmaster.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcmaster.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcmarker.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcmarker.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcmainct.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcmainct.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcprepct.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcprepct.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jccoefct.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jccoefct.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jccolor.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jccolor.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcsample.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcsample.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jchuff.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jchuff.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcdctmgr.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcdctmgr.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jfdctfst.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jfdctfst.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jfdctflt.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jfdctflt.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jfdctint.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jfdctint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdapimin.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdapimin.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdapistd.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdapistd.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdarith.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdarith.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdatasrc.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdatasrc.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdmaster.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdmaster.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdinput.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdinput.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdmarker.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdmarker.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdhuff.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdhuff.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdmainct.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdmainct.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdcoefct.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdcoefct.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdpostct.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdpostct.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jddctmgr.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jddctmgr.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jidctfst.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jidctfst.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jidctflt.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jidctflt.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jidctint.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jidctint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdsample.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdsample.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdcolor.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdcolor.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jquant1.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jquant1.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jquant2.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jquant2.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jdmerge.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jdmerge.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jaricom.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jaricom.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jcomapi.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jcomapi.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jutils.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jutils.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jerror.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jerror.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jmemmgr.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jmemmgr.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libjpeg.lib(jmemnobs.obj) : warning LNK4099: PDB 'vc110.pdb' が 'libjpeg.lib(jmemnobs.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(chipmunk.obj) : warning LNK4099: PDB 'vc110_ib_1.pdb' が 'libchipmunk.lib(chipmunk.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_1.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpConstraint.obj) : warning LNK4099: PDB 'vc110_ib_1.pdb' が 'libchipmunk.lib(cpConstraint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_1.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpDampedRotarySpring.obj) : warning LNK4099: PDB 'vc110_ib_2.pdb' が 'libchipmunk.lib(cpDampedRotarySpring.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpDampedSpring.obj) : warning LNK4099: PDB 'vc110_ib_3.pdb' が 'libchipmunk.lib(cpDampedSpring.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_3.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpGearJoint.obj) : warning LNK4099: PDB 'vc110_ib_4.pdb' が 'libchipmunk.lib(cpGearJoint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_4.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpGrooveJoint.obj) : warning LNK4099: PDB 'vc110_ib_5.pdb' が 'libchipmunk.lib(cpGrooveJoint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_5.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpPinJoint.obj) : warning LNK4099: PDB 'vc110_ib_6.pdb' が 'libchipmunk.lib(cpPinJoint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_6.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpPivotJoint.obj) : warning LNK4099: PDB 'vc110_ib_7.pdb' が 'libchipmunk.lib(cpPivotJoint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_7.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpRatchetJoint.obj) : warning LNK4099: PDB 'vc110_ib_8.pdb' が 'libchipmunk.lib(cpRatchetJoint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_8.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpRotaryLimitJoint.obj) : warning LNK4099: PDB 'vc110_ib_9.pdb' が 'libchipmunk.lib(cpRotaryLimitJoint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSimpleMotor.obj) : warning LNK4099: PDB 'vc110_ib_1.pdb' が 'libchipmunk.lib(cpSimpleMotor.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_1.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSlideJoint.obj) : warning LNK4099: PDB 'vc110_ib_1.pdb' が 'libchipmunk.lib(cpSlideJoint.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_1.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpArbiter.obj) : warning LNK4099: PDB 'vc110_ib_4.pdb' が 'libchipmunk.lib(cpArbiter.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_4.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpArray.obj) : warning LNK4099: PDB 'vc110_ib_2.pdb' が 'libchipmunk.lib(cpArray.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpBBTree.obj) : warning LNK4099: PDB 'vc110_ib_3.pdb' が 'libchipmunk.lib(cpBBTree.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_3.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpBody.obj) : warning LNK4099: PDB 'vc110_ib_1.pdb' が 'libchipmunk.lib(cpBody.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_1.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpCollision.obj) : warning LNK4099: PDB 'vc110_ib_2.pdb' が 'libchipmunk.lib(cpCollision.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpHashSet.obj) : warning LNK4099: PDB 'vc110_ib_4.pdb' が 'libchipmunk.lib(cpHashSet.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_4.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpPolyShape.obj) : warning LNK4099: PDB 'vc110_ib_7.pdb' が 'libchipmunk.lib(cpPolyShape.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_7.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpShape.obj) : warning LNK4099: PDB 'vc110_ib_3.pdb' が 'libchipmunk.lib(cpShape.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_3.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpace.obj) : warning LNK4099: PDB 'vc110_ib_1.pdb' が 'libchipmunk.lib(cpSpace.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_1.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceComponent.obj) : warning LNK4099: PDB 'vc110_ib_4.pdb' が 'libchipmunk.lib(cpSpaceComponent.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_4.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceHash.obj) : warning LNK4099: PDB 'vc110_ib_7.pdb' が 'libchipmunk.lib(cpSpaceHash.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_7.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceQuery.obj) : warning LNK4099: PDB 'vc110_ib_2.pdb' が 'libchipmunk.lib(cpSpaceQuery.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceStep.obj) : warning LNK4099: PDB 'vc110_ib_8.pdb' が 'libchipmunk.lib(cpSpaceStep.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_8.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpatialIndex.obj) : warning LNK4099: PDB 'vc110_ib_5.pdb' が 'libchipmunk.lib(cpSpatialIndex.obj)' で、または 'D:\cocos2dx\SlotGame\proj.win32\Debug.win32\vc110_ib_5.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  libcocos2d.vcxproj -> D:\cocos2dx\SlotGame\proj.win32\Debug.win32\libcocos2d.dll

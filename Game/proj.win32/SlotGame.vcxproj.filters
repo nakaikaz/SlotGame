@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\rapidjson">
+      <UniqueIdentifier>{2316941e-13a6-4e34-834e-d0df15f75f4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\rapidjson\error">
+      <UniqueIdentifier>{51d0dd22-27ee-40fb-9379-ce210b8a8291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\rapidjson\internal">
+      <UniqueIdentifier>{9b33cd11-1d7d-4c50-b88d-1073389850fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\rapidjson\msinttypes">
+      <UniqueIdentifier>{640148db-ebf8-4a05-99e4-967ba0f8b153}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\platform">
+      <UniqueIdentifier>{dff65c37-be6e-408d-866b-d6cc81a7d11a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\config">
+      <UniqueIdentifier>{09392594-6626-4ade-bd8c-26dc861c01bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\name">
+      <UniqueIdentifier>{744e569d-09dd-4d43-8dde-d4c6031277ca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StartupScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Slot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameState.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RegisterScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\platform\win32.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ReportScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameValue.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\StartupScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Slot.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameState.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RegisterScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\allocators.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\document.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\encodedstream.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\encodings.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\filereadstream.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\filestream.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\filewritestream.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\memorybuffer.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\memorystream.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\prettywriter.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\rapidjson.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\reader.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\stringbuffer.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\writer.h">
+      <Filter>src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\error\en.h">
+      <Filter>src\rapidjson\error</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\error\error.h">
+      <Filter>src\rapidjson\error</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\biginteger.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\diyfp.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\dtoa.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\ieee754.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\itoa.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\meta.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\pow10.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\stack.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\strfunc.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\internal\strtod.h">
+      <Filter>src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\msinttypes\inttypes.h">
+      <Filter>src\rapidjson\msinttypes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\rapidjson\msinttypes\stdint.h">
+      <Filter>src\rapidjson\msinttypes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\platform\win32.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ReportScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameValue.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Name.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\config\user.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\config\log.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\config\slot.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\config\event.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\config\resolution.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\config\audio.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\config\font.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Config.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\name\resource.h">
+      <Filter>src\name</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\name\scene.h">
+      <Filter>src\name</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
